@@ -1,0 +1,14 @@
+##### Pre-processing #####
+
+## Objectif: Transformer le data pour le mettre dans un format propice au Machine Learning.
+
+## Checklist de base (non-exhaustive)
+1) Creation du Train set / Test set
+2) Elimination des NaN: dropna(), imputation, colonnes <<vides>>
+3) Encodage
+4) Suppression des outliers nefastes au modele
+5) Feature Selection
+6) Feature engineering
+7) Feature Scaling
+
+

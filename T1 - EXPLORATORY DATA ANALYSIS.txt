@@ -1,0 +1,30 @@
+##### Exploratory Data Analysis #####
+
+## Objectif: Comprendre au maximum les donnees dont on dispose pour definir une strategie de modelisation.
+
+## Checklist de base (non-exhaustive)
+#Analyse de la forme:
+1) Identification de la target
+2) Nombre de lignes et de colonnes
+3) Types de variables
+4) Identification des valeurs manquantes
+
+
+#Analyse du fond:
+1) Visualisation de la target (Histogramme / Boxplot)
+2) Comprehension des differentes variables (Internet)
+3) Visualisation des relations features-target (Histogramme / Boxplot)
+4) Identification des outliers
+
+
+
+
+
+
+
+
+
+
+
+
+

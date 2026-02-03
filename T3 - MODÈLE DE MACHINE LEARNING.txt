@@ -1,0 +1,12 @@
+##### Modelling #####
+
+## Objectif: Developper un modele de machine learning qui reponde a l'objectif final.
+
+## Checklist de base (non-exhaustive)
+1) Definir une fonction d'evaluation
+2) Entrainement de differents modeles
+3) Optimisation avec GridSearchCV
+4) (Optionnel) Analyse des erreurs et retour au Preprocessing / EDA
+5) Learning Curve et prise de decision
+
+
